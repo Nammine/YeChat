@@ -1,3 +1,3 @@
 # YeChat
 
-## It's a instant messenger.
+## It's an instant messenger.
